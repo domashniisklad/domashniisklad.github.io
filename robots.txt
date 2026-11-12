@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cart/
+Disallow: /favorites/
+Sitemap: https://domashnii-sklad.com.ua/sitemap.xml
